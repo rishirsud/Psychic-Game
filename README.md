@@ -1,2 +1,3 @@
 # Psychic-Game
-Computer picks a letter and then the player must guess what it is with only 10 tries.
+Computer picks a random letter from A-Z.
+The player has 10 attempts to guess correctly. If incorrect the computer will select a new letter and the game starts over.
