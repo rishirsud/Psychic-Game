@@ -1,5 +1,5 @@
 // When debug is set to true. Console logs will be shown
-const debug = false;
+const debug = true;
 
 let wins = 0;
 let losses = 0;
